@@ -1,3 +1,6 @@
+<img width="736" height="736" alt="1000009182" src="https://github.com/user-attachments/assets/ef2c3981-cc60-438a-8d09-817333449d00" />
+
+
 <!-- mcp-name: io.github.D4Vinci/Scrapling -->
 
 <h1 align="center">
